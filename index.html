@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>What Is?</title>
+    <style>
+        @font-face {
+            font-family: "Overused Grotesk";
+            font-style: normal;
+            font-weight: 400;
+            src: url('/fonts/OverusedGrotesk/OverusedGrotesk-Medium.otf') format('otf');
+        }
+
+        body {
+            font-family: "Overused Grotesk", sans-serif;
+            color: #302d37;
+            background-color: white;
+            margin: 0;
+            padding: 0;
+            padding-bottom: 32px;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            width: 100%;
+            box-sizing: border-box;
+        }
+
+        /* class="sticky top-0 h-16 backdrop-blur-lg z-50 bg-[rgba(255,255,255,0.8)]" */
+
+        header {
+            position: sticky;
+            top: 0;
+            height: 4rem;
+            backdrop-filter: blur(16px);
+            z-index: 50;
+            background: rgba(255, 255, 255, 0.8);
+            display: flex;
+            flex-direction: row;
+            flex-wrap: nowrap;
+            justify-content: center;
+            align-items: center;
+            padding-left: 2rem
+                /* 32px */
+            ;
+            padding-right: 2rem
+                /* 32px */
+            ;
+            width: 100%;
+            font-weight: 400;
+            box-sizing: border-box;
+        }
+
+        header p {
+            margin: 0;
+            font-size: 1.125rem
+                /* 18px */
+            ;
+            line-height: 1.75rem
+                /* 28px */
+            ;
+        }
+
+        .container {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+        }
+
+        .presentation {
+            background-color: rgb(244 244 244);
+            border-radius: 1.5rem;
+            padding: 1.5rem;
+            margin-bottom: 20px;
+        }
+
+        .presentation-title {
+            font-size: 1.5rem
+                /* 24px */
+            ;
+            line-height: 2rem
+                /* 32px */
+            ;
+            margin: 0;
+        }
+
+        .presentation-description {
+            font-size: 1rem;
+            color: rgb(75 85 99);
+        }
+
+        .presentation a {
+            text-decoration: none;
+            color: #0066cc;
+            font-weight: bold;
+        }
+
+        .presentation a:hover {
+            color: #0055aa;
+        }
+
+
+        /* flex flex-row justify-between w-full gap-4 items-center */
+        footer {
+            display: flex;
+            justify-content: center;
+            box-sizing: border-box;
+            padding: 20px;
+            text-align: center;
+            width: 100%;
+        }
+
+        footer p {
+            margin: 0;
+            font-size: 1.125rem
+                /* 18px */
+            ;
+            line-height: 1.75rem
+                /* 28px */
+            ;
+            color: rgb(156 163 175);
+        }
+    </style>
+</head>
+
+<body>
+
+    <header>
+        <p>What Is?</p>
+    </header>
+
+    <div class="container">
+        <div class="presentation">
+            <p class="presentation-title">What is WASM?</p>
+            <p class="presentation-description">This presentation covers the basics of WebAssembly (WASM), including how
+                it works and why it's important for modern web development.</p>
+            <div class="button-group">
+                <a href="wasm/index.html">View Presentation</a>
+                |
+                <a href="https://github.com/Snekussaurier/whatis/tree/main/wasm">View Resources</a>
+            </div>
+        </div>
+
+        <div class="presentation">
+            <p class="presentation-title">What is Async/Await?</p>
+            <p class="presentation-description">An introduction to C#'s async/await syntax, explaining how it simplifies
+                working with asynchronous operations and non-blocking threads.</p>
+            <div class="button-group">
+                <a href="async-await/index.html">View Presentation</a>
+                |
+                <a href="https://github.com/Snekussaurier/whatis/tree/main/async-await">View Resources</a>
+            </div>
+        </div>
+
+        <div class="presentation">
+            <p class="presentation-title">What is HTTP/3?</p>
+            <p class="presentation-description">A deep dive into HTTP/3, the latest version of the HTTP protocol,
+                designed for improved performance, security, and reliability over HTTP/2.</p>
+            <div class="button-group">
+                <a href="http3/index.html">View Presentation</a>
+                |
+                <a href="https://github.com/your-repo/http3">View Resources</a>
+            </div>
+        </div>
+    </div>
+
+    <footer>
+        <p class="text-lg text-gray-400">© Copyright 2024, Snekussaurier</p>
+    </footer>
+
+</body>
+
+</html>
