@@ -1,0 +1,14 @@
+/Users/valentinschiffl/Documents/git/own-projects/AsyncAwait/AsyncAwaitTea/bin/Debug/net8.0/AsyncAwaitTea
+/Users/valentinschiffl/Documents/git/own-projects/AsyncAwait/AsyncAwaitTea/bin/Debug/net8.0/AsyncAwaitTea.deps.json
+/Users/valentinschiffl/Documents/git/own-projects/AsyncAwait/AsyncAwaitTea/bin/Debug/net8.0/AsyncAwaitTea.runtimeconfig.json
+/Users/valentinschiffl/Documents/git/own-projects/AsyncAwait/AsyncAwaitTea/bin/Debug/net8.0/AsyncAwaitTea.dll
+/Users/valentinschiffl/Documents/git/own-projects/AsyncAwait/AsyncAwaitTea/bin/Debug/net8.0/AsyncAwaitTea.pdb
+/Users/valentinschiffl/Documents/git/own-projects/AsyncAwait/AsyncAwaitTea/obj/Debug/net8.0/AsyncAwaitTea.GeneratedMSBuildEditorConfig.editorconfig
+/Users/valentinschiffl/Documents/git/own-projects/AsyncAwait/AsyncAwaitTea/obj/Debug/net8.0/AsyncAwaitTea.AssemblyInfoInputs.cache
+/Users/valentinschiffl/Documents/git/own-projects/AsyncAwait/AsyncAwaitTea/obj/Debug/net8.0/AsyncAwaitTea.AssemblyInfo.cs
+/Users/valentinschiffl/Documents/git/own-projects/AsyncAwait/AsyncAwaitTea/obj/Debug/net8.0/AsyncAwaitTea.csproj.CoreCompileInputs.cache
+/Users/valentinschiffl/Documents/git/own-projects/AsyncAwait/AsyncAwaitTea/obj/Debug/net8.0/AsyncAwaitTea.dll
+/Users/valentinschiffl/Documents/git/own-projects/AsyncAwait/AsyncAwaitTea/obj/Debug/net8.0/refint/AsyncAwaitTea.dll
+/Users/valentinschiffl/Documents/git/own-projects/AsyncAwait/AsyncAwaitTea/obj/Debug/net8.0/AsyncAwaitTea.pdb
+/Users/valentinschiffl/Documents/git/own-projects/AsyncAwait/AsyncAwaitTea/obj/Debug/net8.0/AsyncAwaitTea.genruntimeconfig.cache
+/Users/valentinschiffl/Documents/git/own-projects/AsyncAwait/AsyncAwaitTea/obj/Debug/net8.0/ref/AsyncAwaitTea.dll

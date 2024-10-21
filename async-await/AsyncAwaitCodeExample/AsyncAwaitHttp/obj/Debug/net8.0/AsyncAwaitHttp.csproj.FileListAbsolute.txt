@@ -1,0 +1,14 @@
+/Users/valentinschiffl/Documents/git/own-projects/AsyncAwait/AsyncAwaitHttp/bin/Debug/net8.0/AsyncAwaitHttp
+/Users/valentinschiffl/Documents/git/own-projects/AsyncAwait/AsyncAwaitHttp/bin/Debug/net8.0/AsyncAwaitHttp.deps.json
+/Users/valentinschiffl/Documents/git/own-projects/AsyncAwait/AsyncAwaitHttp/bin/Debug/net8.0/AsyncAwaitHttp.runtimeconfig.json
+/Users/valentinschiffl/Documents/git/own-projects/AsyncAwait/AsyncAwaitHttp/bin/Debug/net8.0/AsyncAwaitHttp.dll
+/Users/valentinschiffl/Documents/git/own-projects/AsyncAwait/AsyncAwaitHttp/bin/Debug/net8.0/AsyncAwaitHttp.pdb
+/Users/valentinschiffl/Documents/git/own-projects/AsyncAwait/AsyncAwaitHttp/obj/Debug/net8.0/AsyncAwaitHttp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/valentinschiffl/Documents/git/own-projects/AsyncAwait/AsyncAwaitHttp/obj/Debug/net8.0/AsyncAwaitHttp.AssemblyInfoInputs.cache
+/Users/valentinschiffl/Documents/git/own-projects/AsyncAwait/AsyncAwaitHttp/obj/Debug/net8.0/AsyncAwaitHttp.AssemblyInfo.cs
+/Users/valentinschiffl/Documents/git/own-projects/AsyncAwait/AsyncAwaitHttp/obj/Debug/net8.0/AsyncAwaitHttp.csproj.CoreCompileInputs.cache
+/Users/valentinschiffl/Documents/git/own-projects/AsyncAwait/AsyncAwaitHttp/obj/Debug/net8.0/AsyncAwaitHttp.dll
+/Users/valentinschiffl/Documents/git/own-projects/AsyncAwait/AsyncAwaitHttp/obj/Debug/net8.0/refint/AsyncAwaitHttp.dll
+/Users/valentinschiffl/Documents/git/own-projects/AsyncAwait/AsyncAwaitHttp/obj/Debug/net8.0/AsyncAwaitHttp.pdb
+/Users/valentinschiffl/Documents/git/own-projects/AsyncAwait/AsyncAwaitHttp/obj/Debug/net8.0/AsyncAwaitHttp.genruntimeconfig.cache
+/Users/valentinschiffl/Documents/git/own-projects/AsyncAwait/AsyncAwaitHttp/obj/Debug/net8.0/ref/AsyncAwaitHttp.dll

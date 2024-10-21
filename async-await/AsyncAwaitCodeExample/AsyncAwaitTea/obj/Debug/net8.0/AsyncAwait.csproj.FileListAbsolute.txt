@@ -1,0 +1,14 @@
+/Users/valentinschiffl/Documents/git/own-projects/AsyncAwait/AsyncAwait/bin/Debug/net8.0/AsyncAwait
+/Users/valentinschiffl/Documents/git/own-projects/AsyncAwait/AsyncAwait/bin/Debug/net8.0/AsyncAwait.deps.json
+/Users/valentinschiffl/Documents/git/own-projects/AsyncAwait/AsyncAwait/bin/Debug/net8.0/AsyncAwait.runtimeconfig.json
+/Users/valentinschiffl/Documents/git/own-projects/AsyncAwait/AsyncAwait/bin/Debug/net8.0/AsyncAwait.dll
+/Users/valentinschiffl/Documents/git/own-projects/AsyncAwait/AsyncAwait/bin/Debug/net8.0/AsyncAwait.pdb
+/Users/valentinschiffl/Documents/git/own-projects/AsyncAwait/AsyncAwait/obj/Debug/net8.0/AsyncAwait.GeneratedMSBuildEditorConfig.editorconfig
+/Users/valentinschiffl/Documents/git/own-projects/AsyncAwait/AsyncAwait/obj/Debug/net8.0/AsyncAwait.AssemblyInfoInputs.cache
+/Users/valentinschiffl/Documents/git/own-projects/AsyncAwait/AsyncAwait/obj/Debug/net8.0/AsyncAwait.AssemblyInfo.cs
+/Users/valentinschiffl/Documents/git/own-projects/AsyncAwait/AsyncAwait/obj/Debug/net8.0/AsyncAwait.csproj.CoreCompileInputs.cache
+/Users/valentinschiffl/Documents/git/own-projects/AsyncAwait/AsyncAwait/obj/Debug/net8.0/AsyncAwait.dll
+/Users/valentinschiffl/Documents/git/own-projects/AsyncAwait/AsyncAwait/obj/Debug/net8.0/refint/AsyncAwait.dll
+/Users/valentinschiffl/Documents/git/own-projects/AsyncAwait/AsyncAwait/obj/Debug/net8.0/AsyncAwait.pdb
+/Users/valentinschiffl/Documents/git/own-projects/AsyncAwait/AsyncAwait/obj/Debug/net8.0/AsyncAwait.genruntimeconfig.cache
+/Users/valentinschiffl/Documents/git/own-projects/AsyncAwait/AsyncAwait/obj/Debug/net8.0/ref/AsyncAwait.dll
