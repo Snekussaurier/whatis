@@ -1,0 +1,4 @@
+https://www.rfc-editor.org/rfc/rfc9001.html#name-0-rtt
+https://www.youtube.com/watch?v=UMwQjFzTQXw&t=351s
+https://en.wikipedia.org/wiki/HTTP/3
+https://requestmetrics.com/web-performance/http3-is-fast/
