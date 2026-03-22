@@ -200,6 +200,7 @@ ClientBin/
 *.dbproj.schemaview
 *.jfm
 *.pfx
+*.key
 *.publishsettings
 orleans.codegen.cs
 
@@ -289,3 +290,31 @@ __pycache__/
 *.xsd.cs
 
 .idea
+
+# ── C# / .NET ──────────────────────────────
+bin/
+obj/
+*.user
+*.suo
+.vs/
+*.userosscache
+*.sln.docstates
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# .NET nightly/preview test results
+TestResults/
+*.trx
+*.coverage
+
+# ── Rust ───────────────────────────────────
+target/
+Cargo.lock      # remove this line if it's a binary crate (keep lock for apps)
+**/*.rs.bk
+
+# ── General ────────────────────────────────
+.DS_Store
+Thumbs.db
+*.log
+.env
